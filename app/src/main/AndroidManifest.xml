@@ -13,7 +13,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SignupActivity"></activity>
+        <activity android:name=".CreateSocialActivity"></activity>
+        <activity android:name=".SocialDetailActivity" />
+        <activity android:name=".SignupActivity" />
         <activity android:name=".FeedActivity" />
         <activity android:name=".LoginActivity" />
         <activity
