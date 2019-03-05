@@ -24,7 +24,7 @@
                 android:layout_marginEnd="8dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="2dp"
-                android:text="Shomil Jain • June 8, 2018 at 9:00 AM"
+                android:text="Shaurya Sanghvi • March 4, 2019 at 9:00 PM"
                 android:textColor="@android:color/darker_gray"
                 android:textSize="14sp"
                 app:layout_constraintEnd_toEndOf="parent"
